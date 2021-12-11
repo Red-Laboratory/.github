@@ -6,9 +6,9 @@
 
 ```
 
-## Head Company
+## Head Company:
 
-![Red Technologies](https://github.com/Red-company)
+- [Red Technologies](https://github.com/Red-company)
 
 #
 
