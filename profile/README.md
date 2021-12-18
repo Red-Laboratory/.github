@@ -8,7 +8,7 @@
 
 ## Head Company:
 
-- [Red Technologies](https://github.com/Red-company)
+- [_Red Technologies_](https://github.com/Red-company)
 
 #
 
