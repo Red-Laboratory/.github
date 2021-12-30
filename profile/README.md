@@ -6,6 +6,8 @@
 
 ```
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&lines=Library.+For+your+future.)](https://git.io/typing-svg)
+
 ## Head Company:
 
 - [_Red Technologies_](https://github.com/Red-company)
