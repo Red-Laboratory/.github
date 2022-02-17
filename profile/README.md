@@ -6,7 +6,7 @@
 
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&lines=Laboratory.+For+your+future.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&width=440&lines=Laboratory.+For+your+future.;Research+is+our+priority.)](https://git.io/typing-svg)
 
 ## Head Company:
 
